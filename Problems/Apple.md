@@ -5,7 +5,7 @@
 
 ### ***Statement***
 
-***ysh*** 來到了一片 $k \times k$ 的方形森林，裡面有好多蘋果樹，他發現每顆蘋果都有著屬於自己的美味值，現在 ***ysh*** 想要吃到美味值為 $n$ 的蘋果，你可以告訴他那裡有著這樣的蘋果嗎?
+***ysh*** 來到了一片 $k \times k$ 的方形森林，裡面有好多蘋果樹，他發現每顆蘋果都有著屬於自己的美味值，現在 ***ysh*** 想要吃到美味值為 $n$ 的蘋果，你可以告訴他哪裡有著這樣的蘋果嗎?
 
 ### ***Input***
 
@@ -54,8 +54,8 @@ $x_m$ $y_m$
 
 ### ***Subtask***
 
- - ***subtask1***: $10\%$ $k \leq 1,\ a_{(i,j)} \leq 10,\ \forall\ 1 \leq i,j \leq k$
- - ***subtask2***: $10\%$ $k \leq 100,\ a_{(i,j)} \leq 10^4,\ \forall\ 1 \leq i,j \leq k$
- - ***subtask3***: $10\%$ $k \leq 1000,\ a_{(i,j)} \leq 10^9,\ \forall\ 1 \leq i,j \leq k$
- - ***subtask4***: $20\%$ $k \leq 1000,\ a_{(i,j)} \leq 10^{18},\ \forall\ 1 \leq i,j \leq k$
- - ***subtask5***: $50\%$ ***As statement***
+ - ***subtask1***: $10\\%$ $k \leq 1,\ a_{(i,j)} \leq 10,\ \forall\ 1 \leq i,j \leq k$
+ - ***subtask2***: $10\\%$ $k \leq 100,\ a_{(i,j)} \leq 10^4,\ \forall\ 1 \leq i,j \leq k$
+ - ***subtask3***: $10\\%$ $k \leq 1000,\ a_{(i,j)} \leq 10^9,\ \forall\ 1 \leq i,j \leq k$
+ - ***subtask4***: $20\\%$ $k \leq 1000,\ a_{(i,j)} \leq 10^{18},\ \forall\ 1 \leq i,j \leq k$
+ - ***subtask5***: $50\\%$ ***As statement***
